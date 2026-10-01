@@ -205,6 +205,15 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
+### Usage:
+<img width="1470" height="956" alt="Screenshot 2026-10-01 at 3 50 49 PM" src="https://github.com/user-attachments/assets/f91e7a91-1521-43e0-9c26-aeea6a29d2a0" />
+<img width="1470" height="956" alt="Screenshot 2026-10-01 at 3 50 57 PM" src="https://github.com/user-attachments/assets/afd53f4a-c46a-4763-be8d-b1aad319c086" />
+<img width="1470" height="956" alt="Screenshot 2026-10-01 at 3 50 06 PM" src="https://github.com/user-attachments/assets/e9d57c02-f0b5-4604-bd21-9869940ca5e0" />
+<img width="1470" height="956" alt="Screenshot 2026-10-01 at 3 51 13 PM" src="https://github.com/user-attachments/assets/0ea390ac-994e-4fbc-a016-816eb2917326" />
+<img width="1470" height="956" alt="Screenshot 2026-10-01 at 3 50 38 PM" src="https://github.com/user-attachments/assets/371fb660-9bd2-4fdd-b029-9aa2b824a554" />
+
+---
+
 ## 📊 Benchmark Performance Results
 
 | Model Architecture | Precision | Recall | F1-Score | PR-AUC | ROC-AUC | False Positive Rate (FPR) | False Negative Rate (FNR) |
